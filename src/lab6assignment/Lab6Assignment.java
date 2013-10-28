@@ -10,11 +10,12 @@ package lab6assignment;
  */
 public class Lab6Assignment {
 
-    /**
-     * @param args the command line arguments
-     */
+    
     public static void main(String[] args) {
         System.out.println("New things");
+        
+        
+        
         
     }
 }
