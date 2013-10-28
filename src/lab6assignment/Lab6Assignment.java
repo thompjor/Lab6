@@ -15,6 +15,8 @@ public class Lab6Assignment {
         System.out.println("New things");
         
        System.out.println("Brand new stuff"); 
+       
+       System.out.println("Different stuff");
         
         
     }
